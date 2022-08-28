@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there I am Suyash 👋
 
-<!--
-**Suyash1507/Suyash1507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a react based application for location based real estate website.
+- 🌱 I’m currently learning ReactJS
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with the open source documentations
+- 💬 Ask me about the Data Structures and Algorithms.
+- 📫 How to reach me: Email- hkeshri2011@gmail.com
+- 😄 Pronouns: He/his
+- ⚡ Fun fact: I like to read books and play games.
+
